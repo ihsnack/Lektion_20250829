@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B05659A5-7BB1-4600-B0E8-AACBCE743CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Villkorsstyrning-i-C-sharp", "Villkorsstyrning-i-C-sharp\Villkorsstyrning-i-C-sharp.csproj", "{F835EA3B-8579-48D1-B4EE-C3205B75257F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B05659A5-7BB1-4600-B0E8-AACBCE743CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B05659A5-7BB1-4600-B0E8-AACBCE743CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B05659A5-7BB1-4600-B0E8-AACBCE743CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F835EA3B-8579-48D1-B4EE-C3205B75257F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F835EA3B-8579-48D1-B4EE-C3205B75257F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F835EA3B-8579-48D1-B4EE-C3205B75257F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F835EA3B-8579-48D1-B4EE-C3205B75257F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
